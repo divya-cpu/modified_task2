@@ -1,0 +1,2 @@
+A VCS keeps track of the contributions of the developers working as a team on the projects.
+They maintain the history of code changes done and with project evolution, it gives an upper hand to the developers to introduce new code, fixes bugs, and run tests with confidence that their previously working copy could be restored at any moment in case things go wrong.

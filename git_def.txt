@@ -1,4 +1,4 @@
-it is the most popular, open-source and widely used.
+Git is open source
 Distributed version control system (DVCS) 
 DVCS used for handling the development of small and large projects in a more efficient and neat manner.
 when there are multiple people working on projects as a team and is used for tracking the project changes and efficiently supports the collaboration of the development process.
